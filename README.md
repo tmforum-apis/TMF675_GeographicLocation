@@ -1,9 +1,8 @@
-# TMF675_GeographicLocation
-TM Forum Open APIs (Apache 2.0) Geographic Location Management API
+# TMF675 GeographicLocation
 
-Provides the information of geographic region of the entity (customer, equipment, address).
+TM Forum Open API (Apache 2.0) GeographicLocation API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+TM Forum Open API for GeographicLocation.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
